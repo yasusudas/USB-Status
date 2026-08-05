@@ -3,3 +3,6 @@ dist/
 .DS_Store
 *.xcuserdata/
 *.xcuserstate
+# Local AI agent instruction files
+AGENTS.md
+CLAUDE.md
