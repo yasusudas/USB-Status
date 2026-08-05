@@ -6,3 +6,26 @@ dist/
 # Local AI agent instruction files
 AGENTS.md
 CLAUDE.md
+
+# Local AI/editor instruction files (not project runtime)
+GEMINI.md
+CODEX.md
+CURSOR.md
+copilot-instructions.md
+.cursorrules
+.cursor/
+.codex/
+.claude/
+.agents/
+.agent/
+.windsurf/
+.cline/
+.roo/
+.aider/
+.continue/
+.kiro/
+.amazonq/
+.junie/
+.openhands/
+.github/copilot-instructions.md
+dot_github/copilot-instructions.md
